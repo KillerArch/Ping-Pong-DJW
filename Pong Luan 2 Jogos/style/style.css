@@ -1,0 +1,30 @@
+header{
+    margin-top: 0.4%;
+}
+body{
+    margin: 0 auto;
+    background-color: #50bfdb;
+    text-align: center;
+    overflow: hidden;
+    
+}
+body p{
+    background-color: #333;
+	color: #fff;
+	padding: 6px;
+
+    font-family: "Jersey 10", sans-serif;
+    font-size: 15px;
+}
+
+footer span{
+    font-size: 1.2em;
+    font-weight: 250 ;
+}
+
+canvas{
+    border: solid 4px black;
+    background-image: url(../assests/tennis.jpg);
+    position: 0ds;
+    
+}
